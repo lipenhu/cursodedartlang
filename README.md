@@ -1,2 +1,2 @@
 # cursodedartlang
-Exercícios do curso de Dart
+Curso de Dartlang - Introdutório (Dartlang Course - Introductory)
